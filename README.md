@@ -1,2 +1,3 @@
-# 0224-upenn-hackathon
-Development of a bot detection algorithm for the UPenn 2024 Blockchain Hackathon
+This was a group work with:
+- Tommaso Campi
+- Pietro Del Bianco
